@@ -1,2 +1,1 @@
-# ai-mlops
-Assignment 3
+# Essay explaining MLOps
